@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background: RGB(19, 20, 22);
+  }
+  .container{
+    width: 1512px;
+    height: 5000px;
+    background: #000;
+    margin: 0 auto;
+  }
+  .header{
+    width: 100%;
+    height: 921px;
+    background-image: url(Group\ 5.svg);
+  }
